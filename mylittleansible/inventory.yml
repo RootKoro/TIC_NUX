@@ -1,0 +1,6 @@
+hosts:
+    neverland:
+        ssh_address: '172.19.196.142'
+        ssh_port: 22
+        ssh_user: 'kuroro'
+        ssh_password: 'pass'
